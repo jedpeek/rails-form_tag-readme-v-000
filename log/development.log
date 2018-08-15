@@ -176,3 +176,9 @@ Started GET "/assets/turbolinks.self-2db6ec539b9190f75e1d477b305df53d12904d5cafd
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 4.30.5.194 at 2018-08-15 18:48:37 +0000
+
+
+Started GET "/posts/new" for 4.30.5.194 at 2018-08-15 18:54:32 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
